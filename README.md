@@ -1,2 +1,2 @@
-# talstrap
-A React Component lobrary for the Talview Design System
+# Talstrap
+A React Component library for the Talview Design System
