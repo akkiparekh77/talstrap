@@ -1,0 +1,13 @@
+{
+  "lerna": "2.5.1",
+  "author": "Talview",
+  "packages": ["packages/*"],
+  "npmClient": "yarn",
+  "version": "independent",
+  "command": {
+    "publish": {
+      "conventionalCommits": true
+    }
+  },
+  "useWorkspaces": true
+}
