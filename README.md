@@ -103,35 +103,5 @@ Lerna will automatically detect how to bump the versions of the packages based o
 
 Squash and merge using [conventional commits](https://conventionalcommits.org/)
 
-### Feature
-
-```sh
-feat: Add rail support to transport plan. (#7) FH-1234
-
-Transport plan now supports rail.
-
-```
-
-### Breaking change
-
-**Breaking changes should be merged following [FE standard conventions](https://github.com/talview/frontend-standards#release-notes)**
-
-```sh
-fix: Handles transport modes properly (#7) FH-1234
-
-BREAKING CHANGE: The API changed. More descriptions on what to do.
-
-The footer starts after one empty line. You can add the link to the issue here.
-
-```
-
-
-
-
-
-
-- https://s3-eu-west-1.amazonaws.com/talview.talstrap.io/latest/index.html
-
-
 
 
