@@ -4,7 +4,7 @@ A React component library which implements the talview design system.
 
 ## Documentation
 
-The components can be viewed in this [Storybook](https://s3-eu-west-1.amazonaws.com/silhouette.freightlab.io/latest/index.html).
+The components can be viewed in this [Storybook](https://s3-eu-west-1.amazonaws.com/talview.talstrap.io/latest/index.html).
 
 ## Installation
 
